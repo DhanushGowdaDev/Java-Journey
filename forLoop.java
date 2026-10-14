@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Loops {
+public class forLoop {
     public static void main(String[] args) {
 
         //print no.s 1 to 100
